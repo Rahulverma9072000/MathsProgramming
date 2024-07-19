@@ -1,0 +1,15 @@
+Inclusion Exclusion (Not Coinditions)
+
+Count Number from 1 to 1000 that are not divisible by 3 and not divisible by 5 .
+
+C1 : Number divisible by 3 
+C2 : Number divisible by 5
+
+Universe - N(C1 U C2) : Universe - (N(C1) + N(C2) - N(C1 ∩ C2))
+
+Universe : total numbers ie 1000
+
+
+
+Count Binary Strings that do not begin with 0 and do not end with 0 .
+Here Universe : 2^(n)

@@ -1,0 +1,14 @@
+Inclusion Exclusion Principle : 
+
+Count Number in range from 1 to 1000 that are divisible by 3 or 4 . 
+
+Count Binary Strings of length n that begin or end with 0 . 
+
+Derangement Count : Example 1 2 3 now position of 1 is 1 , 2 is 2 , 3 is 3 . So we want that number of derangement possible such that number is not its orignal position . 
+
+
+Union of Multiple Coinditions : 
+
+So First Example C1 : Divisible by 3 , C2 : Divisible by 4 , Some numbers will be common and added twice . so - N(C1 ∩ C2)
+N (C1 U C2) = N(C1) + N(C2) - N(C1 ∩ C2)
+
